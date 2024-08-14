@@ -1,0 +1,104 @@
+              Chapitre 1 Intro général  (1 semaine)
+
+1.1 intro analyse numérique
+1.2 informatique et programmation
+1.3 premier programme informatique
+1.4 environnement dev intégré
+
+
+              Chapitre 2 Les principe de base (3 semaines)
+
+              NB: print est appris en 2.4 mais utiliser avant il faudrait donc l'apprendre au début.
+2.1 Concevoir et rédiger un programme informatique
+    2.1.1 Les éléments constitutifs d'un programme informatique
+    2.1.2 L'organisation d'un programme informatique
+    2.1.3 Les convention de style et de nomenclature
+    2.1.4 Le développement d'un programme informatique
+
+2.2 Les opérations arithmétiques
+    2.2.1 Les opérations arithmétiques de base                              (# 1 à 11)
+    2.2.2 La nomenclature
+    2.2.3 La représentation informatique des nombres
+    2.2.4 Les erreurs d'arrondi                                             (# 12-13)
+        Exercice p.27-28 (13 numéros)
+
+2.3 Les variables
+    2.3.1 Utiliser des variables
+    2.3.2 Nommer une variables 
+    2.3.3 Les types de variables                                            (# 1-2-4-8-9)
+    2.3.4 La conversion de type
+    2.3.5 Les constantes                                                    (# 3 -5-6-7)
+    2.3.6 Réutiliser et supprimer une variables
+    2.3.7 Échanger deux variables                                           (# 10-11)
+        Exercices p.39-41 (pour 11 numéros)
+
+2.4 la saisie de données et l'impression de résultats
+    2.4.1 la fonction input()                                               (# 1-2)
+    2.4.2 Les chaines de caractères
+    2.4.3 La fonction print()                                               (# 3-4-5-6)
+        Exercices p.45-46 (6 numéros)
+
+2.5 Les fonctions personnalisées
+    2.5.1 Définir et utiliser un fonction                                   (# 1-2-4)
+    2.5.2 Tester une fonction
+    2.5.3 Définir différentes modalités de fonctions                        (# 3-5-6-8-15)
+    2.5.4 Utiliser les fonctions de base en Python                          (# 7-9-10-)
+2.5.5 Utiliser les fonctions mathématiques                                  (# 11-12-13-14-16-17)
+        Exercices p.59-62 (17 numéros)
+
+              Chapitre 3 Les décisions et l'automatisation (3 semaines)
+
+3.1 Le traitement conditionnel
+    3.1.1 Le mot clé if                                                     (# 1-2-3-4-6)
+    3.1.2 Les mots clés else et elif                                        (# 5 )
+    3.1.3 Les opérateurs de comparaison et les mots clés and, or et not     (# 7-8-9-10-11-12-13)
+        Exercices p.71-75 (13 numéros)
+
+3.2 Les boucles et le traitement répétitif
+    3.2.1 La boucle for                                                     (# 2-3-7-12)
+    3.2.2 La boucle while                                                   (# 1-4-5-6-8)
+    3.2.3 Utiliser le mot clé break pour terminer l'exécution d'une boucle  (# 9-10-11-13)
+    3.2.4 Les boucles multiples                                             (# 14-15-16-17-18)
+        Exercices p.90-95 (18 numémos)
+
+              Chapitre 4 L'organisation des données (5 semaines)
+
+4.1 Les collections de données
+    4.1.1 Les listes                                                        (# 1-2-5-8)
+    4.1.2 Les dictionnaires                                                 (# 3-4-6)
+    4.1.3 Les tuples                                                        (# 7)
+    4.1.4 Les tableaux imbriqués                                            (# 9-10-11-12)
+        Exercices p.110-113 (12 numéros)
+
+4.2 Automaiser les opérations sur un tableau avec une boucle for
+    4.2.1 Effectuer une opération sur l'ensemble des éléments               (# 1)
+    4.2.2 Inclure du traitement conditionnel                                (# 2-3)
+    4.2.3 Trouver de l'information sur un élément particulier               (# 10-11-15)
+    4.2.4 Trouver les valeurs minimale et maximale dans une liste           (# 4-7)
+    4.2.5 Calculer la somme et la moyenne des éléments d'un tableau         (# 5-12)
+    4.2.6 Remplir un tableau de nombres                                     (# 6-19-16)
+    4.2.7 Effectuer des opérations sur des données consécutives             (# 8-18-17)
+    4.2.8 Un retour sur le calcul de probabilités                           (# 10-13-14)
+        Exercices p.123-128 (19 numéros)
+
+4.3 Écrire et lire des données dans un fichier
+    4.3.1 Ouvrir un fichier de données
+    4.3.2 Créer un fichier et écrire quelque chose à l'intérieur
+    4.3.3 Automatiser l'écriture d'un tableau avec une boucle for
+    4.3.4 Lire un fichier de données                                        (# 1-2)
+        Exercices p.133 (2 numéros)
+
+4.4 Une introduction aux tableaux numpy
+    4.4.1 Définir un tableau numpy                                          
+    4.4.2 Les opérations                                                    
+    4.4.3 Les fonctionnalités courantes                                     (# 1-2-3-4-10)
+    4.4.4 Les copies et les tableaux vides                                  (# 5)
+    4.4.5 Remplir un tableau de nombres                                     (# 6-7-8-11)
+    4.4.6 Le traitement conditionnel                                        
+    4.4.7 Le tableaux multidimensionnels                                    (# 9-12)
+    4.4.8 Écrire et lire dans un fichier avec savetxt() et loadtxt()        (# 13-14-15-16)
+        Exercices p.151-155 (16 numéros)
+
+
+----------------------------------
+Division en 15 semaines Donc moins exam en 12 semaines

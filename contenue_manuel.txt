@@ -6,7 +6,7 @@
 1.4 environnement dev intégré
 
 
-              Chapitre 2 Les principe de base (3 semaines)
+              Chapitre 2 Les principes de bases (3 semaines)
 
               NB: print est appris en 2.4 mais utiliser avant il faudrait donc l'apprendre au début.
 2.1 Concevoir et rédiger un programme informatique
